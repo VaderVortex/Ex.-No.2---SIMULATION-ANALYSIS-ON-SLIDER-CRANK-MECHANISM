@@ -44,10 +44,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![EMPD ex2-1](https://github.com/user-attachments/assets/0f9d00c2-4c7f-4b96-954f-360966cd279f)
+![EMPD ex2-2](https://github.com/user-attachments/assets/6b8e02f9-1412-4511-8c87-aec0e023a5f8)
+![EMPD ex2-3](https://github.com/user-attachments/assets/d2032a5d-22aa-42e1-a115-c3254f3a09c0)
 
 
-### Name:
-### Register Number: 
+
+### Name: S.Sanjeev Kumar
+### Register Number: 24006649
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
